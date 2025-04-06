@@ -1,3 +1,9 @@
+# runtime files/folders
+input_files/*
+
+# pycharm
+.idea
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
